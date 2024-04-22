@@ -1,0 +1,66 @@
+/* LandingPage.css */
+
+.LandingPage {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.LandingPage h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.LandingPage button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.LandingPage button:hover {
+  background-color: #0056b3;
+}
+
+.LandingPage ul {
+  list-style: none;
+  padding: 0;
+}
+
+.LandingPage li {
+  margin-bottom: 10px;
+}
+
+.LandingPage .instructionTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.LandingPage .instructionTable th,
+.LandingPage .instructionTable td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.LandingPage .instructionTable th {
+  background-color: #5e5757;
+}
+
+.LandingPage .instructionTable td {
+  border-bottom: none;
+}
+
+.LandingPage .instructionTable table {
+  width: 100%;
+}
+
+.LandingPage .instructionTable table td {
+  padding: 5px 10px;
+}
