@@ -12,7 +12,7 @@ In this game, you play as one of three fearless cops tasked with capturing a not
 **Installation:**
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone <repository_url>
+   git clone https://github.com/MYSTYX7/Yocket-Assessment.git
    ```
    
 2. Navigate to the project directory:
@@ -46,5 +46,3 @@ In this game, you play as one of three fearless cops tasked with capturing a not
 **Additional Notes:**
 - This game is for entertainment purposes only and does not simulate real-life law enforcement activities.
 - Enjoy the thrill of the chase as you and your fellow cops work together to capture the elusive fugitive!
-
-**Demo Link:**
